@@ -1,0 +1,102 @@
+<!-- This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<ArrayOfStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.SupermarketAPI.com"> -->
+<Store>
+<Storename>Gristedes</Storename>
+<Address>251 W 86th St & Broadway</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>10024</Zip>
+<Phone></Phone>
+<StoreId>fdbfe67a44</StoreId>
+</Store>
+<Store>
+<Storename>Gristedes</Storename>
+<Address>262 West 96 St & Broadway</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>10025</Zip>
+<Phone></Phone>
+<StoreId>56716cd7a3</StoreId>
+</Store>
+<Store>
+<Storename>Gristedes</Storename>
+<Address>907 8th Avenue & 54th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>10019</Zip>
+<Phone></Phone>
+<StoreId>7ff2812938</StoreId>
+</Store>
+<Store>
+<Storename>Gristedes</Storename>
+<Address>1446 Second Ave & 75th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>10021</Zip>
+<Phone></Phone>
+<StoreId>2f23cdde28</StoreId>
+</Store>
+<Store>
+<Storename>Gristedes</Storename>
+<Address>315 South End Ave & Battery Park</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>10280</Zip>
+<Phone></Phone>
+<StoreId>2089998f2c</StoreId>
+</Store>
+<Store>
+<Storename>Gristedes</Storename>
+<Address>350 East 86th Street & 1st Ave</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>10028</Zip>
+<Phone></Phone>
+<StoreId>5167cbfa31</StoreId>
+</Store>
+<Store>
+<Storename>Gristedes</Storename>
+<Address>1644 York Ave & 87th Street</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>10028</Zip>
+<Phone></Phone>
+<StoreId>9c5fada7df</StoreId>
+</Store>
+<Store>
+<Storename>Shelly's</Storename>
+<Address>Schenectady</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>94001</Zip>
+<Phone/>
+<StoreId>39c15f7710</StoreId>
+</Store>
+<Store>
+<Storename>Shelly's</Storename>
+<Address>Schenectady</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>94001</Zip>
+<Phone/>
+<StoreId>e20880fbfe</StoreId>
+</Store>
+<Store>
+<Storename>Trader Joe's</Storename>
+<Address>142 E. 14th St.</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>10003</Zip>
+<Phone></Phone>
+<StoreId>d1cc69fc97</StoreId>
+</Store>
+<Store>
+<Storename>Trader Joe's</Storename>
+<Address>138 E. 14th St.</Address>
+<City>New York</City>
+<State>NY</State>
+<Zip>10003</Zip>
+<Phone></Phone>
+<StoreId>5611be42ee</StoreId>
+</Store>
+</ArrayOfStore>

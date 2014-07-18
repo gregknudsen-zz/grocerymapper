@@ -1,0 +1,209 @@
+<!-- http://www.supermarketapi.com/api.asmx/SearchForItem?APIKEY=cb9bb4e549&StoreId=d1cc69fc97&ItemName=bread -->
+
+<!-- Search for bread at publix sarasota -->
+
+<!-- This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.SupermarketAPI.com"> -->
+<Product>
+<Itemname>Bread</Itemname>
+<ItemDescription/>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>26304</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/196052087_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Artisan Sesame Seed Filone Bread</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29139</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Safeway SELECT Parmesan Breadsticks - Each</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29140</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Safeway SELECT Salted Breadsticks - Each</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29141</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Safeway SELECT Toasted Breadsticks - Each</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29142</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Artisan Plain Filone Bread</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29143</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Colombo Sweet Sliced Bread - 16 Oz</Itemname>
+<ItemDescription>Oakland, San Francisco, Bay Area&#39;s Finest!</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29144</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/196010499_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Francisco Sheepherders Bread - 24 Oz</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29146</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/196010720_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Francisco Sweet French Bread - 16 Oz</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29147</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/196010342_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Colombo Garlic Bread - 10 Oz</Itemname>
+<ItemDescription>
+Colombo sourdough French bread is perfectly complemented by a robust garlic flavor. We&#39;ve split our sourdough loaf down the center and spread it with our special blend of garlic and cheese. Convenience never tasted so delicious. Ready to eat in minutes.
+</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29148</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/196010322_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Garlic Bread In Foil Bag - Each</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29149</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/194010041_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Sara Lee Sourdough Garlic Bread - 10 Oz</Itemname>
+<ItemDescription>Authentic. French style.</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29150</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/196010578_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Alfaros Bread Extra Sour - 16 Oz</Itemname>
+<ItemDescription>100% natural and baker&#39;s yeast-free bread.</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29151</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/196010688_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Alfaros Scruz Sourdough Round Slice Bread - 24 Oz</Itemname>
+<ItemDescription>100% natural and baker&#39;s yeast-free bread.</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29152</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/196010686_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Beckmanns 9 Grain Sour Round Bread - 16 Oz</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29153</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Beckmanns Big Sour Round Bread - 24 Oz</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29154</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Beckmanns California Sour Bread Loaf - 24 Oz</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29155</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Beckmanns Cheese Sourdough Bread - 16 Oz</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29156</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Beckmanns Sourdough 3 Seed Loaf Bread - 24 Oz</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29157</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/noimageavailable100x100.gif
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+<Product>
+<Itemname>Colombo Extra Sour Sliced Bread - 24 Oz</Itemname>
+<ItemDescription>No Description</ItemDescription>
+<ItemCategory>Bread & Bakery</ItemCategory>
+<ItemID>29158</ItemID>
+<ItemImage>
+http://smapistorage.blob.core.windows.net/thumbimages/196010492_100x100.jpg
+</ItemImage>
+<AisleNumber>Aisle:Side of the store</AisleNumber>
+</Product>
+</ArrayOfProduct>
